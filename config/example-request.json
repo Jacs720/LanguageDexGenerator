@@ -1,0 +1,9 @@
+{
+  "GameKeys": ["swsh", "pla", "sv"],
+  "LanguageIds": [1, 2, 3, 4, 5, 8, 9, 10],
+  "OriginalTrainer": "LANG",
+  "TID16": 12345,
+  "SID16": 54321,
+  "ExcludeMysteryGifts": true,
+  "OutputDirectory": "C:\\Pokemon\\LanguageDexOutput"
+}

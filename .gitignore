@@ -1,0 +1,26 @@
+# Build outputs and local dependencies
+**/bin/
+**/obj/
+**/__pycache__/
+*.py[cod]
+dependencies/*.dll
+dependencies/host/
+dist/
+.vs/
+*.user
+
+# Local exports, save files and validation artifacts
+test-results/
+validation/
+LanguageDex_*/
+*.log
+*.main
+*.pk8
+*.pa8
+*.pk9
+
+# Historical project notes and generated plan
+/CODEX_TASK.md
+/PROMPT_PARA_CODEX.txt
+/BUILD_STATUS.md
+/plan.csv

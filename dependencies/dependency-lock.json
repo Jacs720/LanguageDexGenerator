@@ -1,0 +1,11 @@
+{
+  "pkhexAssemblyVersion": "26.8.26.0",
+  "coreSha256": "53CB94C992943B23BEBEEB0B1CFB491B37A596C8A73A99FB5FE9E0F3D4FD3C80",
+  "sourceCommit": "a517163c5b01ddcf5e98029fd2403bf603a482e5",
+  "sourceBranch": "fix/home-frlg-met-locations",
+  "sourceRepository": "https://github.com/kwsch/PKHeX",
+  "sourceNote": "Local project branch; this is not an upstream release tag.",
+  "dotnetSdk": "10.0.302",
+  "targetFramework": "net10.0-windows",
+  "autoModRequired": false
+}
